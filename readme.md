@@ -1,5 +1,7 @@
 # Recipe API
 
+[![Build Status](https://travis-ci.com/Raysultan/recipe-app-api.svg?branch=master)](https://travis-ci.com/Raysultan/recipe-app-api)
+
 ### About
 
 Fully functional backend-API for a basic recipe application.
